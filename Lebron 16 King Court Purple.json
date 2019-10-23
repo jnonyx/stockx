@@ -1,0 +1,211 @@
+{
+    "ProductActivity": [
+        {
+            "chainId": "13088513304179375396",
+            "amount": 950,
+            "createdAt": "2019-06-14T23:13:43+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 950,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "13047545046929931724",
+            "amount": 960,
+            "createdAt": "2019-04-16T04:22:58+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 960,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12953433619067812089",
+            "amount": 899,
+            "createdAt": "2018-12-27T04:25:35+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 899,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12954603454859205014",
+            "amount": 825,
+            "createdAt": "2018-12-09T02:42:46+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 825,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12945665845038507849",
+            "amount": 900,
+            "createdAt": "2018-11-26T21:01:04+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 900,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12926850581627760958",
+            "amount": 740,
+            "createdAt": "2018-11-24T15:05:52+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 740,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12940696254715678287",
+            "amount": 690,
+            "createdAt": "2018-11-21T22:24:24+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 690,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12919250909450008997",
+            "amount": 681,
+            "createdAt": "2018-11-21T22:05:59+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 681,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12920962604193624026",
+            "amount": 680,
+            "createdAt": "2018-11-21T22:04:46+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 680,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12933608696969521031",
+            "amount": 730,
+            "createdAt": "2018-11-16T15:02:06+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 730,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12932076364929777074",
+            "amount": 666,
+            "createdAt": "2018-11-14T20:44:59+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 666,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12927179824590526919",
+            "amount": 734,
+            "createdAt": "2018-11-05T16:54:37+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 734,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12921106531052052119",
+            "amount": 699,
+            "createdAt": "2018-10-31T19:39:51+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 699,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12922574304753352394",
+            "amount": 700,
+            "createdAt": "2018-10-25T18:15:11+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 700,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12920304879692566653",
+            "amount": 625,
+            "createdAt": "2018-10-23T04:39:04+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 625,
+            "localCurrency": "USD"
+        },
+        {
+            "chainId": "12919700306604306016",
+            "amount": 525,
+            "createdAt": "2018-10-21T18:58:16+00:00",
+            "shoeSize": "10.5",
+            "productId": null,
+            "skuUuid": "eb29e65b-db93-4ea7-bdca-793d3164787d",
+            "state": "480",
+            "customerId": null,
+            "localAmount": 525,
+            "localCurrency": "USD"
+        }
+    ],
+    "Pagination": {
+        "limit": 1000,
+        "page": 1,
+        "total": 16,
+        "sort": [
+            "createdAt"
+        ],
+        "order": [
+            "DESC"
+        ],
+        "lastPage": "/api/v2/products/eb29e65b-db93-4ea7-bdca-793d3164787d/activity?currency=USD&limit=1000&order=DESC&page=1&sort=createdAt&state=480",
+        "currentPage": "/api/v2/products/eb29e65b-db93-4ea7-bdca-793d3164787d/activity?currency=USD&limit=1000&order=DESC&page=1&sort=createdAt&state=480",
+        "nextPage": null,
+        "prevPage": null
+    }
+}
